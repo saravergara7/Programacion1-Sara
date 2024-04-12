@@ -1,11 +1,12 @@
-# problema02
+# problema-03
 
 Descripciín basisca de su Proyecto de POO ...
 
 # Autores
 
-- Autor 1
-- Autor 2
+- Sara Vergara
+- Santiago Carvajal
+- Derek Rodriguez
 
 # Herramientas
 
